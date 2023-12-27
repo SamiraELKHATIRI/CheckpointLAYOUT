@@ -1,0 +1,180 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.Docplanner {
+  width: 268px;
+  height: 33px;
+}
+.conteneir {
+  display: flex;
+  justify-content: space-between;
+  margin-inline: 100px;
+}
+.forum,
+a {
+  margin-right: 20px;
+}
+.conteneir1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  align-items: center;
+}
+.conteneir2 {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+  margin-top: 30px;
+  max-width: 65%;
+}
+.img1 {
+  width: 30px;
+  height: 30px;
+}
+.titre {
+  color: #00b39b;
+  margin-top: 30px;
+}
+.bloc1 {
+  display: flex;
+  justify-content: center;
+  width: 65%;
+  gap: 30px;
+  margin-top: 30px;
+  margin: auto;
+}
+.col1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background-color: green;
+  gap: 30px;
+  color: white;
+  padding: 10px;
+}
+.col2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background-color: blue;
+  gap: 30px;
+  color: white;
+  padding: 10px;
+}
+.col3 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background-color: black;
+  gap: 30px;
+  color: white;
+  padding: 10px;
+}
+.conteneir3 {
+  display: flex;
+  align-items: center;
+  margin: auto;
+  margin-top: 30px;
+  max-width: 65%;
+  gap: 30px;
+}
+.col4 {
+  display: flex;
+  justify-content: space-between;
+}
+.col5 {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.divimages {
+  width: 105px;
+  height: 38px;
+}
+
+.conteneir4 {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  background-color: aquamarine;
+  gap: 30px;
+  justify-content: space-around;
+}
+.img9 {
+  width: 150px;
+  height: 180px;
+}
+.bloc6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  gap: 30px;
+}
+.bloc7 {
+  display: flex;
+  padding: 20px;
+  gap: 30px;
+}
+.sb1 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 50px;
+  width: 200px;
+}
+.ssb1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px;
+}
+.ssb11 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px;
+  margin-top:20px ;
+}
+.sb2 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 200px;
+  gap: 50px;
+}
+.ssb2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px;
+}
+.ssb22 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+.divimage {
+  width: 30px;
+  height: 30px;
+}
+.improve{
+    display: flex;
+    justify-content: center;
+    color:#00b39b;
+    margin-top:20px ;
+}
+.share{
+    display: flex;
+    justify-content: center;
+    color: gray;
+    margin-top:20px ;
+}
